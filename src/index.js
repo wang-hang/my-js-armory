@@ -1,5 +1,5 @@
 import debounce from './debounce.js'
-import throttle from './throttle.js'
+import throttle from './src/throttle.js/index.js'
 
 export {
   debounce,

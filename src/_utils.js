@@ -7,5 +7,5 @@
  * @returns {string} [onject xxxx]
  */
 export function getTag(value) {
-  return Object.prototype.toString.call(obj)
+  return Object.prototype.toString.call(value)
 }
